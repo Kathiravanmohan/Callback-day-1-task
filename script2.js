@@ -1,0 +1,12 @@
+// Countdown starts
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 10},1000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 9},2000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 8},3000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 7},4000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 6},5000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 5},6000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 4},7000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 3},8000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 2},9000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = 1},10000)
+setTimeout(()=>{document.getElementById('countdown').innerHTML = "HAPPY INDEPENDENCE DAY"},11000)
